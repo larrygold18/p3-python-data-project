@@ -1,0 +1,27 @@
+Text Report for: psf/requests README
+Generated: 2025-09-17T13:48:40
+------------------------------------------------------------
+Characters: 2927
+Word Count: 410
+
+Top Words (min length 5):
+  requests             29
+  https                16
+  python               6
+  github               6
+  downloads            3
+  supported            3
+  contributors         3
+  githubusercontent    3
+  fetch                3
+  badtimezone          3
+  ignore               3
+  basic                2
+  today                2
+  project              2
+  versions             2
+  shields              2
+  available            2
+  connection           2
+  automatic            2
+  readthedocs          2

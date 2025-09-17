@@ -1,0 +1,60 @@
+2025-09-06 14:02:29.587 | INFO     | utils_logger:get_logger:41 - Logger initialized. Writing to logs\project3.log
+2025-09-06 14:02:29.588 | INFO     | __main__:main:202 - === Project 3 start ===
+2025-09-06 14:02:29.589 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv
+2025-09-06 14:02:30.824 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://jsonplaceholder.typicode.com/posts
+2025-09-06 14:02:32.022 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://raw.githubusercontent.com/psf/requests/main/README.md
+2025-09-06 14:02:32.949 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\airtravel.csv
+2025-09-06 14:02:32.950 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\posts.json
+2025-09-06 14:02:32.951 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\requests_readme.txt
+2025-09-06 14:02:32.952 | INFO     | __main__:process_airtravel:104 - Airtravel summary: {' "1958"': {'months_counted': 12, 'total_passengers': 4572, 'avg_per_month': 381}, ' "1959"': {'months_counted': 12, 'total_passengers': 5140, 'avg_per_month': 428.33}, ' "1960"': {'months_counted': 12, 'total_passengers': 5714, 'avg_per_month': 476.17}}
+2025-09-06 14:02:32.975 | INFO     | __main__:process_posts:124 - Posts summary prepared with 100 posts.
+2025-09-06 14:02:32.981 | INFO     | __main__:write_csv_yearly_totals:154 - Wrote CSV: data\processed\airtravel_yearly_totals.csv
+2025-09-06 14:02:33.020 | INFO     | __main__:write_excel:172 - Wrote Excel: data\processed\summary.xlsx
+2025-09-06 14:02:33.022 | INFO     | __main__:write_json:178 - Wrote JSON: data\processed\posts_summary.json
+2025-09-06 14:02:33.023 | INFO     | __main__:write_text_report:195 - Wrote Text: data\processed\text_report.txt
+2025-09-06 14:02:33.024 | INFO     | __main__:main:229 - === Project 3 complete ===
+2025-09-06 14:13:17.474 | INFO     | utils_logger:get_logger:41 - Logger initialized. Writing to logs\project3.log
+2025-09-06 14:13:17.474 | INFO     | __main__:main:202 - === Project 3 start ===
+2025-09-06 14:13:17.474 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv
+2025-09-06 14:13:18.376 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://jsonplaceholder.typicode.com/posts
+2025-09-06 14:13:18.984 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://raw.githubusercontent.com/psf/requests/main/README.md
+2025-09-06 14:13:19.674 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\airtravel.csv
+2025-09-06 14:13:19.676 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\posts.json
+2025-09-06 14:13:19.677 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\requests_readme.txt
+2025-09-06 14:13:19.678 | INFO     | __main__:process_airtravel:104 - Airtravel summary: {' "1958"': {'months_counted': 12, 'total_passengers': 4572, 'avg_per_month': 381}, ' "1959"': {'months_counted': 12, 'total_passengers': 5140, 'avg_per_month': 428.33}, ' "1960"': {'months_counted': 12, 'total_passengers': 5714, 'avg_per_month': 476.17}}
+2025-09-06 14:13:19.682 | INFO     | __main__:process_posts:124 - Posts summary prepared with 100 posts.
+2025-09-06 14:13:19.685 | INFO     | __main__:write_csv_yearly_totals:154 - Wrote CSV: data\processed\airtravel_yearly_totals.csv
+2025-09-06 14:13:19.702 | INFO     | __main__:write_excel:172 - Wrote Excel: data\processed\summary.xlsx
+2025-09-06 14:13:19.704 | INFO     | __main__:write_json:178 - Wrote JSON: data\processed\posts_summary.json
+2025-09-06 14:13:19.708 | INFO     | __main__:write_text_report:195 - Wrote Text: data\processed\text_report.txt
+2025-09-06 14:13:19.709 | INFO     | __main__:main:229 - === Project 3 complete ===
+2025-09-17 13:21:51.208 | INFO     | utils_logger:get_logger:41 - Logger initialized. Writing to logs\project3.log
+2025-09-17 13:21:51.209 | INFO     | __main__:main:202 - === Project 3 start ===
+2025-09-17 13:21:51.210 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv
+2025-09-17 13:21:52.072 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://jsonplaceholder.typicode.com/posts
+2025-09-17 13:21:52.830 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://raw.githubusercontent.com/psf/requests/main/README.md
+2025-09-17 13:21:54.165 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\airtravel.csv
+2025-09-17 13:21:54.166 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\posts.json
+2025-09-17 13:21:54.168 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\requests_readme.txt
+2025-09-17 13:21:54.168 | INFO     | __main__:process_airtravel:104 - Airtravel summary: {' "1958"': {'months_counted': 12, 'total_passengers': 4572, 'avg_per_month': 381}, ' "1959"': {'months_counted': 12, 'total_passengers': 5140, 'avg_per_month': 428.33}, ' "1960"': {'months_counted': 12, 'total_passengers': 5714, 'avg_per_month': 476.17}}
+2025-09-17 13:21:54.171 | INFO     | __main__:process_posts:124 - Posts summary prepared with 100 posts.
+2025-09-17 13:21:54.174 | INFO     | __main__:write_csv_yearly_totals:154 - Wrote CSV: data\processed\airtravel_yearly_totals.csv
+2025-09-17 13:21:54.220 | INFO     | __main__:write_excel:172 - Wrote Excel: data\processed\summary.xlsx
+2025-09-17 13:21:54.222 | INFO     | __main__:write_json:178 - Wrote JSON: data\processed\posts_summary.json
+2025-09-17 13:21:54.223 | INFO     | __main__:write_text_report:195 - Wrote Text: data\processed\text_report.txt
+2025-09-17 13:21:54.224 | INFO     | __main__:main:229 - === Project 3 complete ===
+2025-09-17 13:48:38.173 | INFO     | utils_logger:get_logger:41 - Logger initialized. Writing to logs\project3.log
+2025-09-17 13:48:38.174 | INFO     | __main__:main:202 - === Project 3 start ===
+2025-09-17 13:48:38.175 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv
+2025-09-17 13:48:39.153 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://jsonplaceholder.typicode.com/posts
+2025-09-17 13:48:39.798 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://raw.githubusercontent.com/psf/requests/main/README.md
+2025-09-17 13:48:40.441 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\airtravel.csv
+2025-09-17 13:48:40.443 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\posts.json
+2025-09-17 13:48:40.446 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\requests_readme.txt
+2025-09-17 13:48:40.446 | INFO     | __main__:process_airtravel:104 - Airtravel summary: {' "1958"': {'months_counted': 12, 'total_passengers': 4572, 'avg_per_month': 381}, ' "1959"': {'months_counted': 12, 'total_passengers': 5140, 'avg_per_month': 428.33}, ' "1960"': {'months_counted': 12, 'total_passengers': 5714, 'avg_per_month': 476.17}}
+2025-09-17 13:48:40.448 | INFO     | __main__:process_posts:124 - Posts summary prepared with 100 posts.
+2025-09-17 13:48:40.451 | INFO     | __main__:write_csv_yearly_totals:154 - Wrote CSV: data\processed\airtravel_yearly_totals.csv
+2025-09-17 13:48:40.490 | INFO     | __main__:write_excel:172 - Wrote Excel: data\processed\summary.xlsx
+2025-09-17 13:48:40.492 | INFO     | __main__:write_json:178 - Wrote JSON: data\processed\posts_summary.json
+2025-09-17 13:48:40.495 | INFO     | __main__:write_text_report:195 - Wrote Text: data\processed\text_report.txt
+2025-09-17 13:48:40.495 | INFO     | __main__:main:229 - === Project 3 complete ===
