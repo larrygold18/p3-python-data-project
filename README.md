@@ -24,3 +24,17 @@ py -m pip install --upgrade pip setuptools wheel
 # Install dependencies (from this repo)
 py -m pip install -r requirements.txt
 ```
+---
+
+## Run the Project
+
+```powershell
+py project3.py
+```
+---
+
+## Screenshot (image.png)
+
+A screenshot of my project running successfully in VS Code is included:
+
+![Screenshot of successful run](image.png)
