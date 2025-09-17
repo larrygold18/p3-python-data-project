@@ -73,3 +73,18 @@
 2025-09-17 14:35:06.313 | INFO     | __main__:write_json:178 - Wrote JSON: data\processed\posts_summary.json
 2025-09-17 14:35:06.315 | INFO     | __main__:write_text_report:195 - Wrote Text: data\processed\text_report.txt
 2025-09-17 14:35:06.315 | INFO     | __main__:main:229 - === Project 3 complete ===
+2025-09-17 14:48:18.946 | INFO     | utils_logger:get_logger:41 - Logger initialized. Writing to logs\project3.log
+2025-09-17 14:48:18.947 | INFO     | __main__:main:202 - === Project 3 start ===
+2025-09-17 14:48:18.948 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv
+2025-09-17 14:48:20.093 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://jsonplaceholder.typicode.com/posts
+2025-09-17 14:48:20.972 | INFO     | __main__:fetch_to_bytes:55 - Fetching: https://raw.githubusercontent.com/psf/requests/main/README.md
+2025-09-17 14:48:21.762 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\airtravel.csv
+2025-09-17 14:48:21.764 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\posts.json
+2025-09-17 14:48:21.765 | INFO     | __main__:save_raw:65 - Saved raw: data\raw\requests_readme.txt
+2025-09-17 14:48:21.767 | INFO     | __main__:process_airtravel:104 - Airtravel summary: {' "1958"': {'months_counted': 12, 'total_passengers': 4572, 'avg_per_month': 381}, ' "1959"': {'months_counted': 12, 'total_passengers': 5140, 'avg_per_month': 428.33}, ' "1960"': {'months_counted': 12, 'total_passengers': 5714, 'avg_per_month': 476.17}}
+2025-09-17 14:48:21.769 | INFO     | __main__:process_posts:124 - Posts summary prepared with 100 posts.
+2025-09-17 14:48:21.772 | INFO     | __main__:write_csv_yearly_totals:154 - Wrote CSV: data\processed\airtravel_yearly_totals.csv
+2025-09-17 14:48:21.796 | INFO     | __main__:write_excel:172 - Wrote Excel: data\processed\summary.xlsx
+2025-09-17 14:48:21.798 | INFO     | __main__:write_json:178 - Wrote JSON: data\processed\posts_summary.json
+2025-09-17 14:48:21.802 | INFO     | __main__:write_text_report:195 - Wrote Text: data\processed\text_report.txt
+2025-09-17 14:48:21.802 | INFO     | __main__:main:229 - === Project 3 complete ===
