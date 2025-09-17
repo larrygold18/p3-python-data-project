@@ -1,4 +1,4 @@
-# Project 3 — Python Data Project (Windows 11)
+# Project 3 — Python Data Project
 
 This project fetches small datasets from the web, processes them with Python, and writes outputs (CSV, Excel, JSON, Text). Logging is handled by `utils_logger.py`.
 
